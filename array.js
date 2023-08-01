@@ -12,3 +12,10 @@ console.log("acces",data[8])
 //  but lets see if it goes
 
 // my main js file no new feature
+
+//  2 nd commit from 
+
+// 3 rd change i dot want 
+
+
+// 4 th change i want again
