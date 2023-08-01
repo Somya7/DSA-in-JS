@@ -4,7 +4,11 @@ for (let a=0;a<data.length;a++){
     console.log("hello ", data[a])
 }
 // accessing
-console.log("acces",data[8]);
-// new branch
+console.log("acces",data[8])
+// new chane in somya
+
+// hi these are few changes in want in main
+
+//  but lets see if it goes
 
 // my main js file no new feature
