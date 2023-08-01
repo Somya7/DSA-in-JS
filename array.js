@@ -5,4 +5,6 @@ for (let a=0;a<data.length;a++){
 }
 // accessing
 console.log("acces",data[8])
+// new chane in somya
+
 
