@@ -4,5 +4,6 @@ for (let a=0;a<data.length;a++){
     console.log("hello ", data[a])
 }
 // accessing
-console.log("acces",data[8])
+console.log("acces",data[8]);
+// new branch
 
