@@ -10,3 +10,5 @@ while (value != 7) {
 
 
 console.log(value);
+
+export { };
