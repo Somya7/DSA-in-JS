@@ -6,7 +6,7 @@ interface CalculaterInter {
     devide(a: number, b: number): void;
 
 
-}
+}sdsd
 
 hello
 class CalculaterImpl implements CalculaterInter {
